@@ -59,18 +59,18 @@ Assignments are generally due by 11:59 p.m. on the Friday indicated below. Exact
 | # | Date | Topics | Due Dates |
 |:--:|:----------:|---------------------------------------------------------|--------------------------------|
 | 1 | 08/28/26 | Course Introduction & Overview of Modern Generative AI | |
-| 2 | 09/04/26 | Building with LLMs & TA Hands-on Workshop (Models, APIs, Open-source Tools) | Team Formation & Tutorial Signup |
-| 3 | 09/11/26 | Agentic AI: Tool Use, Memory, Planning, and Workflows & TA workshop | |
-| 4 | 09/18/26 | Multimodal AI, Evaluation & Trustworthy Generative AI | Project Proposal Due |
-| 5 | 09/25/26 | Project Proposal Presentations I | |
-| 6 | 10/02/26 | Project Proposal Presentations II | |
-| 7 | 10/09/26 | Student Technical Tutorials I | |
-| 8 | 10/16/26 | Student Technical Tutorials II | |
-| 9 | 10/23/26 | Student Technical Tutorials III | Midterm Project Report |
-| 10 | 10/30/26 | Student Technical Tutorials IV | Peer Feedback |
-| 11 | 11/06/26 | Student Technical Tutorials V | |
-| 12 | 11/13/26 | Student Technical Tutorials VI | |
-| 13 | 11/20/26 | Project Clinic / Final Presentation Q&A | |
+| 2 | 09/04/26 | Building with LLMs & TA Hands-on Workshop | Team Formation & Tutorial Signup |
+| 3 | 09/11/26 | Agentic AI & Trustworthy Generative AI | |
+| 4 | 09/18/26 | Project Proposal Presentations I | Project Proposal Due |
+| 5 | 09/25/26 | Project Proposal Presentations II | |
+| 6 | 10/02/26 | Student Technical Tutorials I  | |
+| 7 | 10/09/26 | Student Technical Tutorials II | |
+| 8 | 10/16/26 | Student Technical Tutorials III | |
+| 9 | 10/23/26 | Student Technical Tutorials IV | Midterm Project Report |
+| 10 | 10/30/26 | Student Technical Tutorials V | Peer Feedback |
+| 11 | 11/06/26 | Student Technical Tutorials VI | |
+| 12 | 11/13/26 | Student Technical Tutorials VII | |
+| 13 | 11/20/26 | Student Technical Tutorials VIII | |
 | -- | 11/27/26 | Thanksgiving Break | |
 | 14 | 12/04/26 | Final Project Presentations I | Presentation Materials Due |
 | 15 | 12/11/26 | Final Project Presentations II | Final Project Report Due |
