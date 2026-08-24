@@ -57,7 +57,7 @@ Final grade cutoff:
 ## Tentative Schedule
 Assignments are generally due by 11:59 p.m. on the Friday indicated below. Exact deadlines and submission instructions will be provided on the corresponding assignment pages.
 | # | Date | Topics | Due Dates |
-|:--:|:----------:|:---------------------------------------------------------|:-------------------------------|
+| --- | --- | --- | --- |
 | 1 | 08/28/26 | Course Introduction & Overview of Modern Generative AI | |
 | 2 | 09/04/26 | Building with LLMs & TA Hands-on Workshop | Team Formation & Tutorial Signup |
 | 3 | 09/11/26 | Agentic AI & Trustworthy Generative AI | |
