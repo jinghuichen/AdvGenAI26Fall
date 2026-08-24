@@ -59,7 +59,7 @@ Assignments are generally due by 11:59 p.m. on the Friday indicated below. Exact
 | # | Date | Topics | Due Dates |
 | --- | --- | --- | --- |
 | 1 | 08/28/26 | Course Introduction & Overview of Modern Generative AI | |
-| 2 | 09/04/26 | Building with LLMs & TA Hands-on Workshop | Team Formation & Tutorial Signup |
+| 2 | 09/04/26 | Building with LLMs & TA Hands-on Workshop  | Team Formation & Tutorial Signup |
 | 3 | 09/11/26 | Agentic AI & Trustworthy Generative AI | |
 | 4 | 09/18/26 | Project Proposal Presentations I | Project Proposal Due |
 | 5 | 09/25/26 | Project Proposal Presentations II | |
