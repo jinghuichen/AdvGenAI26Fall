@@ -17,7 +17,7 @@ This graduate special topics course surveys recent advances in generative AI and
 - Office hours: by appointment (email instructor to setup time)
 
 - TA: Yifan Lan
-    - Office hours: TBD
+    - Office hours: 9-10am Tue on Zoom [https://psu.zoom.us/j/97755865602?pwd=4Si9dOSDxY3d7sZBtXZtWLcyfgeJTd.1](https://psu.zoom.us/j/97755865602?pwd=4Si9dOSDxY3d7sZBtXZtWLcyfgeJTd.1)
 
 ## Course Objectives
 
