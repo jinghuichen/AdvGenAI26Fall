@@ -65,12 +65,12 @@ Assignments are generally due by 11:59 p.m. on the Friday indicated below. Exact
 | 5 | 09/25/26 | Project Proposal Presentations II | |
 | 6 | 10/02/26 | Student Technical Tutorials I  | |
 | 7 | 10/09/26 | Student Technical Tutorials II | |
-| 8 | 10/16/26 | Student Technical Tutorials III & Project Checkpoint | |
-| 9 | 10/23/26 | Student Technical Tutorials IV | Midterm Project Report |
+| 8 | 10/16/26 | Student Technical Tutorials III  | |
+| 9 | 10/23/26 | Student Technical Tutorials IV & Project Checkpoint | Midterm Project Report |
 | 10 | 10/30/26 | Student Technical Tutorials V | Peer Feedback |
-| 11 | 11/06/26 | Student Technical Tutorials VI & Project Checkpoint | |
+| 11 | 11/06/26 | Student Technical Tutorials VI | |
 | 12 | 11/13/26 | Student Technical Tutorials VII | |
-| 13 | 11/20/26 | Student Technical Tutorials VIII | |
+| 13 | 11/20/26 | Student Technical Tutorials VIII & Project Checkpoint | |
 | -- | 11/27/26 | Thanksgiving Break | |
 | 14 | 12/04/26 | Final Project Presentations I | Presentation Materials Due |
 | 15 | 12/11/26 | Final Project Presentations II | Final Project Report Due |
